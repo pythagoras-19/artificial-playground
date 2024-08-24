@@ -1,0 +1,110 @@
+# .NET Core generated files
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ASP.NET Scaffolding
+.scaffolding
+
+# Visual Studio Code directory
+.vscode/
+
+# Package directories
+**/node_modules/
+**/bower_components/
+
+# Build directories
+build/
+[Bb]in/
+[Oo]bj/
+
+# VS Code project files
+.vscode/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# macOS files
+.DS_Store
+
+# Visual Studio specific files
+.vs/
+.vscode/
+*.vscode
+.vscode/settings.json
+
+# Log files
+*.log
+
+# NPM packages
+node_modules/
+
+# Compiled DLLs
+*.dll
+*.exe
+*.so
+*.dylib
+*.o
+*.a
+
+# Application files
+*.db
+*.sqlite
+*.sqlite3
+
+# Docker files
+Dockerfile*
+docker-compose*
+
+# JetBrains Rider
+.idea/
+
+# Resharper
+*.DotSettings.user
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.generated.cs
+*.generated.h
+*.generated.cpp
+
+# Local history for JetBrains IDEs
+.idea/.idea/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Mono auto generated files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# File System specific files
+.DS_Store
