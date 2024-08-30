@@ -1,1 +1,3 @@
 # artificial-playground
+
+- sentiment analysis
